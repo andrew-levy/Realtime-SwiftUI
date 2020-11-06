@@ -1,0 +1,7 @@
+coverage_service: cobertura_xml
+workspace: Realtime.xcworkspace
+xcodeproj: Realtime.xcodeproj
+scheme: Realtime
+binary_basename: Realtime
+ignore:
+  - Pods/*
